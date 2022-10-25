@@ -26,4 +26,5 @@ pip install -r requirements.txt
 Executar
 ```bash
 scrapy runspider listing.py -o listing.json
+scrapy runspider items.py -o items.json
 ```
