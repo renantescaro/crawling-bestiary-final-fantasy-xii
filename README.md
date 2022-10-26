@@ -1,4 +1,4 @@
-## Crwaling Bestiary Final Fantasy XII
+## Scraping Bestiary Final Fantasy XII
 https://finalfantasy.fandom.com/wiki/Bestiary_(Final_Fantasy_XII)
 
 <br>
